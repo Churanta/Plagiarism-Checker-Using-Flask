@@ -12,13 +12,13 @@ Web application of Plagiarism Checker using Python-Flask. TF-IDF and cosine simi
 
 ## Usage
 
-### Run the program: python app.py
+- Run the program: python app.py
 
-### Open a web browser and go to http://localhost:5000/
+- Open a web browser and go to http://localhost:5000/
 
-### Enter your input text in the provided text box and click the "CHECK PLAGIARISM" button.
+- Enter your input text in the provided text box and click the "CHECK PLAGIARISM" button.
 
-### The program will return a percentage score indicating the similarity between your input text and the texts in the database.
+- The program will return a percentage score indicating the similarity between your input text and the texts in the database.
 
 ## Technologies Used
 
