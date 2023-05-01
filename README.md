@@ -11,8 +11,8 @@ https://user-images.githubusercontent.com/83538805/235447357-d23b617d-8828-4ae3-
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/example/plagiarism-checker.git
-2. Navigate to the cloned directory: cd plagiarism-checker
+1. Clone the repository: git clone https://github.com/Churanta/Plagiarism-Checker-Using-Flask.git
+2. Navigate to the cloned directory: cd Plagiarism-Checker-Using-Flask
 3. Create a virtual enviroment 'Python -m venv env'
 4. Install the required packages: pip install -r req.txt
 5. run this command in terminal 'run.sh'
