@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/83538805/235447357-d23b617d-8828-4ae3-
 
 ## Getting Started
 
-- To run the program, you must have Python 3.x installed on your computer.
+- To run the program, you must have Python 3.x or upper version installed on your computer.
 
 ## Steps:
 
