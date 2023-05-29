@@ -1,6 +1,6 @@
 # Plagiarism Checker Using Flask
 
-Web application of Plagiarism Checker using Python-Flask. TF-IDF and cosine similarity is a very common technique. It allows the system to quickly retrieve documents similar to a search query. Similarly, based on the same concept instead of retrieving documents similar to a query, it checks for how similar the query is to the existing database file. This is a Python program that calculates the similarity between a user-provided input text and a database of texts. The similarity score is calculated using the cosine similarity algorithm..
+Web application of Plagiarism Checker using Python-Flask. TF-IDF and cosine similarity is a very common technique. It allows the system to quickly retrieve documents similar to a search query. Similarly, based on the same concept instead of retrieving documents similar to a query, it checks for how similar the query is to the existing database file. This is a Python program that calculates the similarity between a user-provided input text and a database of texts. The similarity score is calculated using the cosine similarity algorithm.
 
 ## Screenshots
 
