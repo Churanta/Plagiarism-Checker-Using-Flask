@@ -33,7 +33,6 @@ https://user-images.githubusercontent.com/83538805/235447357-d23b617d-8828-4ae3-
 - Flask
 - HTML
 - CSS
-- Bootstrap
 
 ## Getting Started
 
